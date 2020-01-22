@@ -1,2 +1,4 @@
 venv/
 .idea
+nsclient_sdk.egg-info/
+dist/
